@@ -36,3 +36,6 @@ Follow the instructions below to set up and run the project locally.
 
 ## Google mobile-friendly test result ✅
    ![LINK](https://search.google.com/test/mobile-friendly/result?id=fiM1d6uAcLabwVNWUCybvA)
+
+# No  plugins used
+   
