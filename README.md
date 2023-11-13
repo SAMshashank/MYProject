@@ -31,3 +31,6 @@ Follow the instructions below to set up and run the project locally.
   8. Testing UI in different mobile  devices
   9. Fixing few bugs
   10. Make the Build ready ( NPM run build)
+
+## Google mobile-friendly test result ✅
+   ![LINK](https://search.google.com/test/mobile-friendly/result?id=fiM1d6uAcLabwVNWUCybvA)
