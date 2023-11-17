@@ -1,3 +1,5 @@
+## Website Live at Vercel (https://my-project-orpin-sigma.vercel.app/)
+
 # Profile Screen Project
 
 This project is a frontend application built using React.js  that renders a profile screen similar to the provided screenshot from mobile view.
@@ -31,3 +33,9 @@ Follow the instructions below to set up and run the project locally.
   8. Testing UI in different mobile  devices
   9. Fixing few bugs
   10. Make the Build ready ( NPM run build)
+
+## Google mobile-friendly test result ✅
+   ![LINK](https://search.google.com/test/mobile-friendly/result?id=fiM1d6uAcLabwVNWUCybvA)
+
+# No  plugins used
+   
