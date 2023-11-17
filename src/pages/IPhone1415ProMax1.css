@@ -4,7 +4,8 @@
   left: 0;
   border-radius: 2px;
   background-color: #101010;
-  width: 430px;
+  width: 100%;
+  /* 430px */
   height: 89px;
 }
 .ttt-1-icon {
@@ -47,25 +48,20 @@
   width: 88px;
   height: 41px;
 }
-.courses {
-  position: absolute;
-  top: 37px;
-  left: 334px;
-  font-weight: 900;
-  color: #080808;
-}
+
 .cover-pic-1-icon,
 .user-1-1-icon {
   position: absolute;
-  top: 89px;
-  left: 0;
-  width: 430px;
-  height: 177px;
+  top: 65px;
+  left: 0px;
+  width: 100%;
+  height: 198px;
   object-fit: cover;
 }
 .user-1-1-icon {
   top: 229px;
   left: 25px;
+  border: 2px solid black;
   border-radius: 200px;
   width: 133px;
   height: 133px;
@@ -327,18 +323,19 @@
 }
 .vector-icon {
   position: absolute;
-  top: 497.5px;
-  left: 0.5px;
+  top: 499.5px;
+  left: -1.5px;
   width: 104px;
   height: 37px;
+  background-color: white;
 }
 .posts {
   position: absolute;
   top: 507px;
   left: 16px;
   font-weight: 500;
-  color: #2ca0ec;
-  -webkit-text-stroke: 1px #a2c3d8;
+  color: #1b6799;
+  -webkit-text-stroke: 1px #1184cb;
 }
 .frame-div {
   position: absolute;
@@ -384,4 +381,47 @@
   font-size: var(--font-size-mini);
   color: var(--color-black);
   font-family: var(--font-inter);
+}
+@media only screen and (max-width: 600px) {
+  .iphone-14-15-pro-max-1-child {
+    height: 120px;
+  }
+
+  /* Add more styles as needed for small screens */
+}
+
+/* Medium screens (tablets) */
+@media only screen and (min-width: 601px) and (max-width: 768px) {
+  .iphone-14-15-pro-max-1-child {
+    height: 150px;
+  }
+
+  /* Add more styles as needed for medium screens */
+}
+
+/* Large screens (desktops) */
+@media only screen and (min-width: 769px) and (max-width: 1200px) {
+  .iphone-14-15-pro-max-1-child {
+    height: 180px;
+  }
+
+  /* Add more styles as needed for large screens */
+}
+
+/* Extra large screens (large desktops) */
+@media only screen and (min-width: 1201px) {
+  .iphone-14-15-pro-max-1-child {
+    height: 200px;
+  }
+
+  /* Add more styles as needed for extra-large screens */
+}
+
+@media (max-width: 400px) {
+  
+  .div7,.div8,.div9 {
+    
+    left: 330px;
+   
+  }
 }
