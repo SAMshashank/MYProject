@@ -7,7 +7,7 @@ const IPhone1415ProMax1 = () => {
   return (
     <div className="iphone-14-15-pro-max-1">
      
-        <Navbar />
+        <Navbar svg={jsonData.tttIcon} story={jsonData.storiesText} dandi={jsonData.divContent} courses={jsonData.coursesText} />
 
 
     
