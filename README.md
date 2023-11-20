@@ -1,6 +1,8 @@
 ## Website Live at Vercel (https://my-project-orpin-sigma.vercel.app/)
 
-# Profile Screen Project
+
+
+# Profile Screen Project "problem statement" 
 
 This project is a frontend application built using React.js  that renders a profile screen similar to the provided screenshot from mobile view.
 
@@ -23,19 +25,30 @@ Follow the instructions below to set up and run the project locally.
 ![Profile Overview](https://reflectsmart.tech/images/Screenshot%202023-11-13%20222957.png?123) 
 
 ## steps to creating this project
-  1. npx create-react-app 
+  1. make React project
+    ``` npx create-react-app ttt ```
   2. Make Components
+    "make navbar component"
   3. Add Json file
-  4. For styling I used css
+     "added json file to show the date to frontend and also send the json data as props in navbar component"
+  4. For styling 
+     "use simple css"
   5. I use FIGMA for creating UI
-  6. Adding className and HTML tags 
+     "I make figma model for better understanding of UI"
+  6. Make responsive 
+     "Adding className and HTML tags"
   7. Adding css
-  8. Testing UI in different mobile  devices
+     "adding css for above classes"
+  8. Testing UI on different mobile  devices
+     "Test the ready build for responsiveness"
   9. Fixing few bugs
   10. Make the Build ready ( NPM run build)
-
+     "Building the ready build is done by versel"
+  11. Uploaded on vercel.
+ 
 ## Google mobile-friendly test result ✅
-   ![LINK](https://search.google.com/test/mobile-friendly/result?id=fiM1d6uAcLabwVNWUCybvA)
+![](https://developers.google.com/static/search/blog/images/import/0b595804577d672f40e00831ee41775d.png)  
+[LINK](https://search.google.com/test/mobile-friendly/result?id=fiM1d6uAcLabwVNWUCybvA)
 
-# No  plugins used
+" No  plugins used "
    
