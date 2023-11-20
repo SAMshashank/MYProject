@@ -22,7 +22,7 @@ The goal of this project is to create a consistent profile screen that renders c
 
 Follow the instructions below to set up and run the project locally.
 
-![Profile Overview](https://reflectsmart.tech/images/Screenshot%202023-11-13%20222957.png?123) 
+![Profile Overview](https://reflectsmart.tech/images/Untitled-1.png) 
 
 ## steps to creating this project
   1. make React project
